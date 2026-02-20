@@ -1,0 +1,46 @@
+{
+    "id": "d66320cd-3165-48b1-6760-08ddd9bc93a0",
+    "qr": "halohalo",
+    "rfid": "halohalo",
+    "nfc": "halohalo"
+}{
+    "id": "dc7801e1-3e84-4a96-6761-08ddd9bc93a0",
+    "qr": "halohalo",
+    "rfid": "halohalo",
+    "nfc": "halohalo"
+}{
+    "id": "03d73c07-cd79-451f-6762-08ddd9bc93a0",
+    "qr": "halohalo",
+    "rfid": "halohalo",
+    "nfc": "halohalo"
+}{
+    "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+    "title": "One or more validation errors occurred.",
+    "status": 400,
+    "errors": {
+        "Barrel": [
+            "The Barrel field is required."
+        ]
+    },
+    "traceId": "00-e57d637aff7b6bf44cf5ca24d8180211-e15b479ecb9f7307-00"
+}{
+    "id": "d0e87a01-af1b-442f-6763-08ddd9bc93a0",
+    "qr": "halohalo",
+    "rfid": "halohalo",
+    "nfc": "halohalo"
+}{
+    "id": "edc0ace2-9ae7-4e9c-6764-08ddd9bc93a0",
+    "qr": "halohalo",
+    "rfid": "halohalo",
+    "nfc": "halohalo"
+}{
+    "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+    "title": "One or more validation errors occurred.",
+    "status": 400,
+    "errors": {
+        "Barrel": [
+            "The Barrel field is required."
+        ]
+    },
+    "traceId": "00-676b7aa65174d3804c90fbab6ba473ed-adbd39902c81b149-00"
+}
